@@ -16,5 +16,3 @@ is our research paper.
 More plots(made by pyplot) are in the paper.
 
 ClassOfCity.py is used to converted name of the cites students lived in to the class of the city, according to China's tier system of cities in the file  'NicerFormat.txt', which originated from '线.txt'.
-
-I did all the coding and visualition
